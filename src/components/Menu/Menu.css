@@ -1,0 +1,5 @@
+.nav-wrapper .active {
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+}

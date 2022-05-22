@@ -1,0 +1,28 @@
+#main {
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  html, body {
+    height: 100%;
+    
+  }
+  
+  h1 {
+    margin: 20px 0 15px 0;  
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  ul>li:hover {
+    background-color: #F5F5F5;
+  }
+  
+  .icon {
+    margin: 6px 10px 6px 0;
+  }
+  
+  
+  

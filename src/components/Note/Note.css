@@ -1,0 +1,19 @@
+.note {
+    width: 200px;
+}
+
+.note:hover {
+    cursor: pointer;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+.delete-btn-container{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    color:rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    display: none;
+}
+.note:hover .delete-btn-container{
+ display: block;
+}
